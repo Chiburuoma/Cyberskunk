@@ -1,2 +1,2 @@
-# Cyberskunk
+# Cyberpunk
 Check out my work!
